@@ -363,6 +363,7 @@ export const TypeChart: {[k: string]: ModdedTypeData | null} = {
 			Dark: 1,
 			Fairy: 1,
 		},
+	},
 	steel: {
 		damageTaken: {
 			Bug: 0,
