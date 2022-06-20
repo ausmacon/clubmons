@@ -438,9 +438,9 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = { //All LCs will hav
 		learnset: {
 			scratch: ["1L1", "1L45"], //However, convergent evolution has never existed in Pokemon and thus has no routes on PS. So we have to get a little janky with this.
 			growl: ["1L1", "1L45"], //They should remain incompatible with each sex's movesets but hey probably better to just not deal with it at all.
-			tail whip: ["1L1", "1L45"],
+			tailwhip: ["1L1", "1L45"],
 			bite: ["1L1", "1L45"],
-			fury swipes: ["1L1", "1L45"],
+			furyswipes: ["1L1", "1L45"],
 			thrash: ["1L50"], //Ensuring Thrash doesn't become incompatible with Nidorino's moves either.
 			megapunch: ["1M"],
 			megakick: ["1M"],
