@@ -60,7 +60,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = { //All LCs will hav
 	konya: {
 		learnset: {
 			scratch: ["1L1"],
-			growl: ["1L1"]
+			growl: ["1L1"],
 			tailwhip: ["1L7"],
 			sandattack: ["1L14"],
 			payday: ["1L17", "1M"],
