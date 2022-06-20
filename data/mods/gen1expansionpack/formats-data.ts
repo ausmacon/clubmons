@@ -7,6 +7,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	///`8888Y'  `Y88P' 88   YD YP   YP 88      88      Y88888P Y8888D'   88       `Y88P'  YP   YD Y88888P YP  YP  YP  `Y88P'  VP   V8P 
 	//LCs and NFEs are given their respective designations
 	///New Pokemon are tiered "New" as if it were a new generation. This should be positioned below OU.
+	//Old Pokemon have been retiered
 	puchikoon: {
 		tier: "LC",
 	},
