@@ -18,6 +18,19 @@ The column value will be ignored for repeat sections.
 */
 
 export const Formats: FormatList = [
+	// Test Formats
+	///////////////////////////////////////////////////////////////////
+
+	{
+		section: "Test Formats",
+	},
+	{
+		name: "[Gen 1] Kanto Expansion Pak",
+
+		mod: 'gen1expansionpack',
+		ruleset: ['Standard'],
+		banlist: ['Uber'],
+	},
 
 	// Sw/Sh Singles
 	///////////////////////////////////////////////////////////////////
