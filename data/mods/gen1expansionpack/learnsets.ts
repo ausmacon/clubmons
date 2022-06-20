@@ -264,7 +264,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = { //All LCs will hav
 			tailwhip: ["1L1"],
 			bubble: ["1L7"],
 			meditate: ["1L13"],
-			water gun: ["1L19", "1M"],
+			watergun: ["1L19", "1M"],
 			swift: ["1L27, 1M"],
 			feintattack: ["1L32"],
 			substitute: ["1L42", "1M"],
