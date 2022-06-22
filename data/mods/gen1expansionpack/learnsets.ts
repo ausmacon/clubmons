@@ -5,6 +5,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 	///  `Y8b. 8b      88`8b   88~~~88 88~~~   88~~~   88~~~~~ 88   88   88~~~   88    88 88`8b   88~~~~~ 88  88  88 88    88 88 V8o88 
 	///db   8D Y8b  d8 88 `88. 88   88 88      88      88.     88  .8D   88      `8b  d8' 88 `88. 88.     88  88  88 `8b  d8' 88  V888 
 	///`8888Y'  `Y88P' 88   YD YP   YP 88      88      Y88888P Y8888D'   88       `Y88P'  YP   YD Y88888P YP  YP  YP  `Y88P'  VP   V8P 	
+	//Scrapped Pokemon
 	//All new LCs will have Encounter Levels of 5, allowing them to be used in a theoretically cart-accurate LC. 
 	/*Follow this template, which includes all of RBY's mandatory TMs for easier importing.
 	MONSTERNAME: {
@@ -1240,6 +1241,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 	///8b      88`8b   88    88   `Y8b.   `Y8b. C8888D 88  ooo 88~~~~~ 88 V8o88   88~~~~~ `8b  d8' 88    88   `Y8b. 
 	///Y8b  d8 88 `88. `8b  d8' db   8D db   8D        88. ~8~ 88.     88  V888   88.      `8bd8'  `8b  d8' db   8D 
 	/// `Y88P' 88   YD  `Y88P'  `8888Y' `8888Y'         Y888P  Y88888P VP   V8P   Y88888P    YP     `Y88P'  `8888Y' 
+	///Cross-Gen Evos
 	kleavor: {
 		learnset: {
 			quickattack: ["1L1"],
@@ -1274,6 +1276,7 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 	///88`8b   88~~~~~ 88  ooo    88    88    88 88 V8o88 88~~~88 88        `8b  d8' 88~~~88 88`8b      88    88~~~88 88 V8o88    88      `Y8b. 
 	///88 `88. 88.     88. ~8~   .88.   `8b  d8' 88  V888 88   88 88booo.    `8bd8'  88   88 88 `88.   .88.   88   88 88  V888    88    db   8D 
 	///88   YD Y88888P  Y888P  Y888888P  `Y88P'  VP   V8P YP   YP Y88888P      YP    YP   YP 88   YD Y888888P YP   YP VP   V8P    YP    `8888Y' 
+	///Regional Variants
 	rattataalola: {
 		learnset: {
 			tackle: ["1L1"],
