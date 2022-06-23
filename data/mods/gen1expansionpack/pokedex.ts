@@ -1079,7 +1079,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	lickitung: {
 		inherit: true,
 		baseStats: {hp: 90, atk: 55, def: 75, spa: 60, spd: 60, spe: 30},
-		evos: ["Lickitung"],
+		evos: ["Lickilicky"],
 	},
 	koffing: {
 		inherit: true,
