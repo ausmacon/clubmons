@@ -10,105 +10,139 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	//Old Pokemon have been retiered
 	puchikoon: {
 		tier: "LC",
+		gen: 1,
 	},
 	mikon: {
 		tier: "LC",
+		gen: 1,
 	},
 	konya: {
 		tier: "LC",
+		gen: 1,
 	},
 	gyopin: {
 		tier: "LC",
+		gen: 1,
 	},
 	bittybat: {
 		tier: "LC",
+		gen: 1,
 	},
 	blastyke: {
 		tier: "LC",
+		gen: 1,
 	},
 	magnetite: {
 		tier: "NFE",
+		gen: 1,
 	},
 	zuduck: {
 		tier: "NFE",
+		gen: 1,
 	},
 	ribbito: {
 		tier: "LC",
+		gen: 1,
 	},
 	croakazuna: {
 		tier: "New",
+		gen: 1,
 	},
 	weepamid: {
 		tier: "LC",
+		gen: 1,
 	},
 	bawligua: {
 		tier: "NFE",
+		gen: 1,
 	},
 	crythian: {
 		tier: "New",
+		gen: 1,
 	},
 	nidoreign: {
 		tier: "New",
+		gen: 1,
 	},
 	decilla: {
 		tier: "LC",
+		gen: 1,
 	},
 	gyaoon: {
 		tier: "New",
+		gen: 1,
 	},
 	omega: {
 		tier: "New",
+		gen: 1,
 	},
 	trampel: {
 		tier: "New",
+		gen: 1,
 	},
 	jagg: {
 		tier: "New",
+		gen: 1,
 	},
 	blottle: {
 		tier: "LC",
+		gen: 1,
 	},
 	pendraken: {
 		tier: "New",
+		gen: 1,
 	},
 	deer: {
 		tier: "New",
+		gen: 1,
 	},
 	barunda: {
 		tier: "New",
+		gen: 1,
 	},
 	cheep: {
 		tier: "LC",
+		gen: 1,
 	},
 	jabetta: {
 		tier: "New",
+		gen: 1,
 	},
 	cactus: {
 		tier: "New",
+		gen: 1,
 	},
 	kotora: {
 		tier: "LC",
+		gen: 1,
 	},
 	gaotora: {
 		tier: "NFE",
+		gen: 1,
 	},
 	gorotora: {
 		tier: "New",
+		gen: 1,
 	},
 	crocky: {
 		tier: "New",
+		gen: 1,
 	},
 	gorochu: {
 		tier: "New",
+		gen: 1,
 	},
 	guardia: {
 		tier: "New",
+		gen: 1,
 	},
 	totartle: {
 		tier: "New",
+		gen: 1,
 	},
 	buu: {
 		tier: "New",
+		gen: 1,
 	},
 		/// 
 	/// .o88b. d8888b.  .d88b.  .d8888. .d8888.         d888b  d88888b d8b   db   d88888b db    db  .d88b.  .d8888. 
@@ -120,114 +154,151 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	///
 	kleavor: {
 		tier: "New",
+		gen: 1,
 	},
 	scizor: {
 		tier: "New",
+		gen: 1,
 	},
 	crobat: {
 		tier: "New",
+		gen: 1,
 	},
 	steelix: {
 		tier: "New",
+		gen: 1,
 	},
 	bellossom: {
 		tier: "New",
+		gen: 1,
 	},
 	slowking: {
 		tier: "New",
+		gen: 1,
 	},
 	slowkinggalar: {
 		tier: "New",
+		gen: 1,
 	},
 	magenezone: {
 		tier: "New",
+		gen: 1,
 	},
 	lickilicky: {
 		tier: "New",
+		gen: 1,
 	},
 	tangrowth: {
 		tier: "New",
+		gen: 1,
 	},
 	blissey: {
 		tier: "New",
+		gen: 1,
 	},
 	rhyperior: {
 		tier: "New",
+		gen: 1,
 	},
 	hitmontop: {
 		tier: "New",
+		gen: 1,
 	},
 	politoed: {
 		tier: "New",
+		gen: 1,
 	},
 	mrrime: {
 		tier: "New",
+		gen: 1,
 	},
 	kingdra: {
 		tier: "New",
+		gen: 1,
 	},
 	magmortar: {
 		tier: "New",
+		gen: 1,
 	},
 	electivire: {
 		tier: "New",
+		gen: 1,
 	},
 	porygon2: {
-		tier: "Uber", //I really don't think people want to fight this or Porygon-Z. Let's just launch with them banned.
+		tier: "Uber",
+		gen: 1, //I really don't think people want to fight this or Porygon-Z. Let's just launch with them banned.
 	},
 	porygonz: {
 		tier: "Uber",
+		gen: 1,
 	},
 	espeon: {
 		tier: "New",
+		gen: 1,
 	},
 	umbreon: {
 		tier: "New",
+		gen: 1,
 	},
 	leafeon: {
 		tier: "New",
+		gen: 1,
 	},
 	glaceon: {
 		tier: "New",
+		gen: 1,
 	},
 	sylveon: {
 		tier: "New",
+		gen: 1,
 	},
 	perrserker: {
 		tier: "New",
+		gen: 1,
 	},
 	sirfetchd: {
 		tier: "New",
+		gen: 1,
 	},
 	pichu: {
 		tier: "LC",
+		gen: 1,
 	},
 	tyrogue: {
 		tier: "LC",
+		gen: 1,
 	},
 	cleffa: {
 		tier: "LC",
+		gen: 1,
 	},
 	igglybuff: {
 		tier: "LC",
+		gen: 1,
 	},
 	magby: {
 		tier: "LC",
+		gen: 1,
 	},
 	smoochum: {
 		tier: "LC",
+		gen: 1,
 	},
 	elekid: {
 		tier: "LC",
+		gen: 1,
 	},
 	happiny: {
 		tier: "LC",
+		gen: 1,
 	},
 	munchlax: {
 		tier: "LC",
+		gen: 1,
 	},
 	mimejr: {
 		tier: "LC",
+		gen: 1,
 	},
 	///d8888b. d88888b  d888b  d888888b  .d88b.  d8b   db  .d8b.  db        db    db  .d8b.  d8888b. d888888b  .d8b.  d8b   db d888888b .d8888. 
 	///88  `8D 88'     88' Y8b   `88'   .8P  Y8. 888o  88 d8' `8b 88        88    88 d8' `8b 88  `8D   `88'   d8' `8b 888o  88 `~~88~~' 88'  YP 
@@ -237,102 +308,135 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	///88   YD Y88888P  Y888P  Y888888P  `Y88P'  VP   V8P YP   YP Y88888P      YP    YP   YP 88   YD Y888888P YP   YP VP   V8P    YP    `8888Y' 
 	rattataalola: {
 		tier: "LC",
+		gen: 1,
 	},
 	raticatealola: {
 		tier: "New",
+		gen: 1,
 	},
 	raichualola: {
 		tier: "New",
+		gen: 1,
 	},
 	sandshrewalola: {
 		tier: "LC",
+		gen: 1,
 	},
 	sandslashalola: { //fweezai
 		tier: "New",
+		gen: 1,
 	},
 	vulpixalola: {
 		tier: "LC",
+		gen: 1,
 	},
 	ninetalesalola: {
 		tier: "New",
+		gen: 1,
 	},
 	diglettalola: {
 		tier: "LC",
+		gen: 1,
 	},
 	dugtrioalola: {
 		tier: "New",
+		gen: 1,
 	},
 	meowthalola: {
 		tier: "LC",
+		gen: 1,
 	},
 	meowthgalar: {
 		tier: "LC",
+		gen: 1,
 	},
 	persianalola: {
 		tier: "New",
+		gen: 1,
 	},
 	growlithehisui: {
 		tier: "LC",
+		gen: 1,
 	},
 	arcaninehisui: {
 		tier: "New",
+		gen: 1,
 	},
 	geodudealola: {
 		tier: "LC",
+		gen: 1,
 	},
 	graveleralola: {
 		tier: "NFE",
+		gen: 1,
 	},
 	golemalola: {
 		tier: "New",
+		gen: 1,
 	},
 	ponytagalar: {
 		tier: "LC",
+		gen: 1,
 	},
 	rapidashgalar: {
 		tier: "New",
+		gen: 1,
 	},
 	slowpokegalar: {
 		tier: "LC",
+		gen: 1,
 	},
 	slowbrogalar: {
 		tier: "New",
+		gen: 1,
 	},
 	farfetchdgalar: {
 		tier: "LC",
+		gen: 1,
 	},
 	grimeralola: {
 		tier: "LC",
+		gen: 1,
 	},
 	mukalola: {
 		tier: "New",
+		gen: 1,
 	},
 	voltorbhisui: {
 		tier: "LC",
+		gen: 1,
 	},
 	electrodehisui: {
 		tier: "New",
+		gen: 1,
 	},
 	exeggutoralola: {
 		tier: "New",
+		gen: 1,
 	},
 	marowakalola: {
 		tier: "New",
+		gen: 1,
 	},
 	weezinggalar: {
 		tier: "New",
+		gen: 1,
 	},
 	mrmimegalar: {
 		tier: "NFE",
+		gen: 1,
 	},
 	articunogalar: {
 		tier: "New",
+		gen: 1,
 	},
 	zapdosgalar: {
 		tier: "New",
+		gen: 1,
 	},
 	moltresgalar: {
 		tier: "New",
+		gen: 1,
 	},
 	/// .o88b. db       .d8b.  .d8888. .d8888. d888888b  .o88b.   d8888b.  .d88b.  db   dD d88888b d8888b. d88888b db    db 
 	///d8P  Y8 88      d8' `8b 88'  YP 88'  YP   `88'   d8P  Y8   88  `8D .8P  Y8. 88 ,8P' 88'     88  `8D 88'     `8b  d8' 
