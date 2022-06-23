@@ -145,6 +145,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		accuracy: 90,
 		target: "normal",
 	},
+	brutalswing: {
+		inherit: true,
+		category: "Special",
+		type: "Dark",
+		gen: 1,
+	},
 	bubble: {
 		inherit: true,
 		secondary: {
@@ -168,6 +174,13 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		inherit: true,
 		category: "Physical",
 		type: "Steel",
+		gen: 1,
+	},
+	charm: {
+		inherit: true,
+		category: "Status",
+		type: "Fairy",
+		gen: 1,
 	},
 	clamp: {
 		inherit: true,
@@ -236,6 +249,18 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		inherit: true,
 		category: "Special",
 		willCrit: true,
+	},
+	darkvoid: {
+		inherit: true,
+		category: "Status",
+		type: "Dark",
+		gen: 1,
+	},
+	dazzlinggleam: {
+		inherit: true,
+		category: "Special",
+		type: "Fairy",
+		gen: 1,
 	},
 	dig: {
 		inherit: true,
@@ -309,10 +334,40 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		inherit: true,
 		basePower: 1,
 	},
+	drainingkiss: {
+		inherit: true,
+		category: "Special",
+		type: "Fairy",
+		gen: 1,
+	},
 	explosion: {
 		inherit: true,
 		basePower: 170,
 		target: "normal",
+	},
+	fairywind: {
+		inherit: true,
+		category: "Special",
+		type: "Fairy",
+		gen: 1,
+	},
+	faketears: {
+		inherit: true,
+		category: "Status",
+		type: "Dark",
+		gen: 1,
+	},
+	falsesurrender: {
+		inherit: true,
+		category: "Special",
+		type: "Dark",
+		gen: 1,
+	},
+	feintattack: {
+		inherit: true,
+		category: "Special",
+		type: "Dark",
+		gen: 1,
 	},
 	fireblast: {
 		inherit: true,
@@ -343,6 +398,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 				}
 			}
 		},
+	},
+	flashcannon: {
+		inherit: true,
+		category: "Physical",
+		type: "Steel",
+		gen: 1,
 	},
 	fly: {
 		inherit: true,
@@ -443,6 +504,18 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		target: "normal",
 		type: "Normal",
 	},
+	irondefense: {
+		inherit: true,
+		category: "Status",
+		type: "Steel",
+		gen: 1,
+	},
+	ironhead: {
+		inherit: true,
+		category: "Physical",
+		type: "Steel",
+		gen: 1,
+	},
 	jumpkick: {
 		inherit: true,
 		onMoveFail(target, source, move) {
@@ -510,6 +583,18 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		target: "self",
 		type: "Psychic",
 	},
+	magnetbomb: {
+		inherit: true,
+		category: "Physical",
+		type: "Steel",
+		gen: 1,
+	},
+	metalsound: {
+		inherit: true,
+		category: "Status",
+		type: "Steel",
+		gen: 1,
+	},
 	metronome: {
 		inherit: true,
 		noMetronome: ["Metronome", "Struggle"],
@@ -549,6 +634,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 			this.actions.useMove(foe.lastMove.id, pokemon);
 		},
 	},
+	mirrorshot: {
+		inherit: true,
+		category: "Physical",
+		type: "Steel",
+		gen: 1,
+	},
 	mist: {
 		inherit: true,
 		condition: {
@@ -571,11 +662,39 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 			},
 		},
 	},
+	naturesmadness: {
+		inherit: true,
+		category: "Special",
+		type: "Fairy",
+		gen: 1,
+	},
+	nastyplot: {
+		inherit: true,
+		boosts: {
+			spd: 2,
+			spa: 2,
+		},
+		category: "Status",
+		type: "Dark",
+		gen: 1,
+	},
 	nightshade: {
 		inherit: true,
 		category: "Physical",
 		ignoreImmunity: true,
 		basePower: 1,
+	},
+	nightslash: {
+		inherit: true,
+		category: "Special",
+		type: "Dark",
+		gen: 1,
+	},
+	playrough: {
+		inherit: true,
+		category: "Special",
+		type: "Fairy",
+		gen: 1,
 	},
 	poisonsting: {
 		inherit: true,
@@ -748,6 +867,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 			status: 'psn',
 		},
 	},
+	smartstrike: {
+		inherit: true,
+		category: "Physical",
+		type: "Steel",
+		gen: 1,
+	},
 	softboiled: {
 		inherit: true,
 		heal: null,
@@ -857,6 +982,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		inherit: true,
 		ignoreImmunity: true,
 		basePower: 1,
+	},
+	sweetkiss: {
+		inherit: true,
+		category: "Status",
+		type: "Fairy",
+		gen: 1,
 	},
 	thunder: {
 		inherit: true,
