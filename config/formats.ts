@@ -3646,9 +3646,8 @@ export const Formats: FormatList = [
 
 		mod: 'gen3',
 		searchShow: false,
-		ruleset: ['Standard', 'NFE Clause'],
-		banlist: ['Uber', 'OU', 'UUBL', 'Smeargle + Ingrain', 'Baton Pass'],
-		unbanlist: ['Scyther'],
+		ruleset: ['Standard'],
+		banlist: ['Uber', 'OU', 'UUBL', 'Smeargle + Ingrain', 'Arena Trap', 'Bright Powder', 'Lax Incense', 'Baton Pass', 'Swagger'],
 	},
 	{
 		name: "[Gen 3] NU",
@@ -3658,9 +3657,8 @@ export const Formats: FormatList = [
 
 		mod: 'gen3',
 		searchShow: false,
-		ruleset: ['[Gen 3] UU', '!NFE Clause'],
-		banlist: ['UU'],
-		unbanlist: ['Baton Pass'],
+		ruleset: ['Standard'],
+		banlist: ['Uber', 'OU', 'UUBL', 'UU', 'Smeargle + Ingrain'],
 	},
 	{
 		name: "[Gen 3] Doubles OU",
