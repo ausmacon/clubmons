@@ -180,7 +180,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "New",
 		gen: 1,
 	},
-	magenezone: {
+	magnezone: {
 		tier: "New",
 		gen: 1,
 	},
